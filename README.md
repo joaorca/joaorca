@@ -1,6 +1,6 @@
 ### João R C Almeida · Gerente de Sistemas | Product Owner
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joaorca&theme=github-compact&hide_border=true&area=true)](https://github.com/joaorca)
+![Contribution Graph](https://ghchart.rshah.org/joaorca)
 
 ---
 
